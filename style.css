@@ -1,0 +1,187 @@
+ .top{ background-color: papayawhip;
+
+ }
+ .get{
+    display:block;
+    width: 200px;
+    height: 30px;
+    background-color: orange;
+    transition: 600ms;
+ 
+  }
+  .button{
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+  }
+  .get:hover{ background-color: #3b5998;
+    width: 220px;
+    height: 40px;
+    
+  }
+
+.elements{
+    font-size: 25px;
+    color:lime;
+}
+.elements:hover{
+    background-color: rgb(228, 216, 216);
+}
+.music{
+    text-decoration: none;
+    font-size: 20px;
+    color:#3b5998;
+}
+.video{
+    text-decoration: none;
+    font-size: 20px;
+    color:#3b5998;
+}
+.sound{ text-decoration: none;
+    font-size: 20px;
+    color:#3b5998;
+
+}
+.graphics{
+    text-decoration: none;
+    font-size: 20px;
+    color:#3b5998;
+}
+.photos{
+    text-decoration: none;
+    font-size: 20px;
+    color:#3b5998;
+}
+.more{
+    text-decoration: none;
+    font-size: 20px;
+    color:#3b5998;
+}
+.license{
+    text-decoration: none;
+    font-size: 20px;
+    color:#3b5998;
+}
+.pricing{
+    text-decoration: none;
+    font-size: 20px;
+    color:#3b5998;
+}
+.read{
+    text-decoration: none;
+    color: orange;
+}   
+    
+.see{
+    display: block;
+    width: 180px;
+    height:40px;
+    font-size: 20px;
+    background-color: orange;
+    transition: 600ms;
+    
+}
+.categories{
+    text-decoration: none;
+    color: white;
+  
+
+}
+.see:hover{
+    background-color: #3b5998;
+    width: 200px;
+    height: 50px;
+}
+.envato{
+    text-decoration: none;
+    color: orange;
+    font-size: 15px;
+}
+.envato:hover{
+    background: #3b5998;
+}
+.cotap{
+    text-decoration: none;
+    color: orange;
+    font-size: 15px;
+}
+.cotap:hover{
+    background-color: #3b5998;
+}
+.read:hover{
+    background-color: #3b5998;
+}
+.video:hover{
+    background-color:rgb(228, 216, 216) ;
+}
+.music:hover{background-color:rgb(228, 216, 216) ;
+    
+}
+.sound:hover{background-color:rgb(228, 216, 216) ;
+
+}
+.graphics:hover{
+    background-color:rgb(228, 216, 216) ;
+
+}
+.photos:hover{background-color:rgb(228, 216, 216) ;
+
+}
+.more:hover{background-color:rgb(228, 216, 216) ;
+
+}
+.license:hover{
+    background-color:rgb(228, 216, 216) ;
+}
+.pricing:hover{
+    background-color:rgb(228, 216, 216) ;
+}
+.form{
+    display: block;
+    width: 150px;
+    height: 35px ;
+    font-size: 17px;
+    background-color: orange;
+    color: white;
+}
+.form:hover{
+    background-color:  #3b5998;
+}
+.option{ display: block;
+    width: 150px;
+    height: 35px ;
+    font-size: 17px;
+    background-color: orange;
+    color: white;
+
+}
+.option:hover{
+    background-color: #3b5998;
+}
+.prefer{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: orange;
+}
+.gp{
+    font-family: 'Lobster', cursive;
+    color: #33CCFF;
+    font-size: 20px;
+}
+.BL{
+    font-family: 'Lobster', cursive;
+    color: orange;
+    font-size: 20px;
+}
+
+.robi{
+    font-family: 'Lobster', cursive;
+    color: red;
+    font-size: 20px;
+}
+
+.airtel{
+    font-family: 'Lobster', cursive;
+    color: rgb(252, 8, 8);
+    font-size: 20px;
+}
